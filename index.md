@@ -5,3 +5,5 @@
 ## Heading (H2)
 # Title (H1)
 Text
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
